@@ -1,1 +1,1 @@
-SELECT * FROM Tables WHERE Column ='example'
+SELECT * FROM Tables WHERE Column ='example'd
